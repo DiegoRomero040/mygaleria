@@ -1,0 +1,2 @@
+# mygaleria
+GitHub Pages
